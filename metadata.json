@@ -1,0 +1,5 @@
+
+{
+  "name": "Bank Statement Analyzer",
+  "description": "An intelligent application that extracts and categorizes transactions from uploaded bank statement PDFs using the power of Gemini."
+}
